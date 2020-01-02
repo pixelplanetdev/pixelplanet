@@ -133,7 +133,7 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.41.0",
-    "webpack-bundle-analyzer": "^2.8.2",
+    "webpack-bundle-analyzer": "^3.6.0",
     "webpack-dev-middleware": "^3.7.1",
     "webpack-hot-middleware": "^2.18.0",
     "write-file-webpack-plugin": "^4.0.2",
