@@ -204,7 +204,7 @@ msgstr ""
 msgid ""
 "This canvas got requested during a time of political conflicts on the main "
 "Earth canvas. It was a 1024x1024 representation of the political compass "
-"with a 5s coolodwn and 60s stacking. It got launched on May 11th and "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
 "remained active for months till it got shut down on November 30th."
 msgstr ""
 
