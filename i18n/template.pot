@@ -187,7 +187,7 @@ msgid ""
 "While we tend to not delete canvases, some canvases are started for fun or "
 "as a request by users who currently like a meme. Those canvases can get "
 "boring after a while and after weeks of no major change and if they really "
-"aren&apos;t worth being kept active, we decide to remove them."
+"aren't worth being kept active, we decide to remove them."
 msgstr ""
 
 #: src/components/ArchiveModal.jsx:22
