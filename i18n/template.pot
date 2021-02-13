@@ -165,7 +165,7 @@ msgid "Globe View"
 msgstr ""
 
 #: src/components/ForgotPasswordModal.jsx:16
-msgid "Enter your mail adress and we will send you a new password:"
+msgid "Enter your mail address and we will send you a new password:"
 msgstr ""
 
 #: src/components/ForgotPasswordModal.jsx:20
@@ -982,7 +982,7 @@ msgstr ""
 #: src/components/ChangeMail.jsx:89
 msgid ""
 "Changed Mail successfully. We sent you a verification mail,               "
-"please verify your new mail adress."
+"please verify your new mail address."
 msgstr ""
 
 #: src/components/ChangeMail.jsx:119
