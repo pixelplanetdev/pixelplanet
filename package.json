@@ -84,7 +84,7 @@
     "url-search-params-polyfill": "^8.1.0",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.1",
-    "ws": "^7.4.4"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
