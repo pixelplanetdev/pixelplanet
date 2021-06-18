@@ -68,7 +68,7 @@
     "react-responsive": "^8.2.0",
     "react-stay-scrolled": "^7.3.0",
     "react-toggle-button": "^2.1.0",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "redlock": "^4.0.0",
     "redux": "^4.0.4",
     "redux-logger": "^3.0.6",
